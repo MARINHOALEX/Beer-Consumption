@@ -10,6 +10,7 @@ Este projeto visa desenvolver um modelo preditivo para estimar o consumo de cerv
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- XGBoost
 
 ## Descrição do Projeto
 
